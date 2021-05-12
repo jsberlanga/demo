@@ -1,14 +1,1028 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "success": true,
+    "errors": [],
+    "data": {
+        "looks": [
+            {
+                "name": "Zeit für Entspannung",
+                "slug": "zeit-fuer-entspannung",
+                "caption": "Grün wirkt bekanntlich beruhigend und natürlich – und bietet damit die perfekten Voraussetzungen für unsere Schlafzimmereinrichtung. Pudriges Rosa passt perfekt zum abgetönten Salbei-Farbton, der sich im eleganten Boxspringbett, in der Bettwäsche und den Vorhängen wiederfindet. Eine hübsche Grundlage bietet ein seidig schimmernder Teppich, Dekokissen aus Samt sorgen für glamouröses Hotel-Feeling. Perfekt als Ablage für Zeitschriften, Kleidung & Co.? Die Samtbank!",
+                "moodImage": {
+                    "id": "2mEGh5pT6TiZR3TDajV0vR",
+                    "createdAt": "2021-05-05T06:39:56.360Z",
+                    "updatedAt": "2021-05-05T06:39:56.360Z",
+                    "title": "Look mood Zeit für Entspannung",
+                    "description": "Zeit für Entspannung",
+                    "file": {
+                        "url": "//images.ctfassets.net/hjjyw06csfy9/2mEGh5pT6TiZR3TDajV0vR/e7e58c30a40c053a37e619a8cb92d91f/look-moodImage-img-room-1619464048408.jpeg",
+                        "details": {
+                            "size": 311771,
+                            "image": {
+                                "width": 1620,
+                                "height": 1080
+                            }
+                        },
+                        "fileName": "look-moodImage-img-room-1619464048408.jpeg",
+                        "contentType": "image/jpeg"
+                    },
+                    "seo_url": "https://dzb5uggjjx6ju.cloudfront.net/image/upload/seo/hjjyw06csfy9/2mEGh5pT6TiZR3TDajV0vR/e7e58c30a40c053a37e619a8cb92d91f/look-moodImage-img-room-1619464048408/mood-zeit-fuer-entspannung.jpeg"
+                },
+                "genericImagePortrait": {
+                    "id": "3hxZlmeAyYTHjXitDAgczM",
+                    "createdAt": "2021-05-05T06:40:06.823Z",
+                    "updatedAt": "2021-05-05T06:40:06.823Z",
+                    "title": "Look generic portrait Zeit für Entspannung",
+                    "description": "Zeit für Entspannung",
+                    "file": {
+                        "url": "//images.ctfassets.net/hjjyw06csfy9/3hxZlmeAyYTHjXitDAgczM/c283994e9cb123abef7ee197a2f802f4/look-genericImagePortrait-img-infusion-1619464053514.jpeg",
+                        "details": {
+                            "size": 83827,
+                            "image": {
+                                "width": 557,
+                                "height": 742
+                            }
+                        },
+                        "fileName": "look-genericImagePortrait-img-infusion-1619464053514.jpeg",
+                        "contentType": "image/jpeg"
+                    },
+                    "seo_url": "https://dzb5uggjjx6ju.cloudfront.net/image/upload/seo/hjjyw06csfy9/3hxZlmeAyYTHjXitDAgczM/c283994e9cb123abef7ee197a2f802f4/look-genericImagePortrait-img-infusion-1619464053514/gp-zeit-fuer-entspannung.jpeg"
+                },
+                "landscapeListingImage": {
+                    "id": "4yVwwuzuFXKjK9Cmfk3RlR",
+                    "createdAt": "2021-05-05T06:40:01.389Z",
+                    "updatedAt": "2021-05-05T06:40:01.389Z",
+                    "title": "Look landscape listing Zeit für Entspannung",
+                    "description": "Zeit für Entspannung",
+                    "file": {
+                        "url": "//images.ctfassets.net/hjjyw06csfy9/4yVwwuzuFXKjK9Cmfk3RlR/11cb2409fed23fec9ef8d154703c4428/look-landscapeListingImage-img-room-1619464048408.jpeg",
+                        "details": {
+                            "size": 94625,
+                            "image": {
+                                "width": 750,
+                                "height": 642
+                            }
+                        },
+                        "fileName": "look-landscapeListingImage-img-room-1619464048408.jpeg",
+                        "contentType": "image/jpeg"
+                    },
+                    "seo_url": "https://dzb5uggjjx6ju.cloudfront.net/image/upload/seo/hjjyw06csfy9/4yVwwuzuFXKjK9Cmfk3RlR/11cb2409fed23fec9ef8d154703c4428/look-landscapeListingImage-img-room-1619464048408/ll-zeit-fuer-entspannung.jpeg"
+                },
+                "portraitListingImage": {
+                    "id": "Tc3GfVuPkMMVGQBpy1yHV",
+                    "createdAt": "2021-05-05T06:40:11.862Z",
+                    "updatedAt": "2021-05-05T06:40:11.862Z",
+                    "title": "Look portrait listing Zeit für Entspannung",
+                    "description": "Zeit für Entspannung",
+                    "file": {
+                        "url": "//images.ctfassets.net/hjjyw06csfy9/Tc3GfVuPkMMVGQBpy1yHV/63038924a5e96eca6cae02269dc41b59/look-portraitListingImage-img-infusion-1619464053514.jpeg",
+                        "details": {
+                            "size": 96238,
+                            "image": {
+                                "width": 642,
+                                "height": 750
+                            }
+                        },
+                        "fileName": "look-portraitListingImage-img-infusion-1619464053514.jpeg",
+                        "contentType": "image/jpeg"
+                    },
+                    "seo_url": "https://dzb5uggjjx6ju.cloudfront.net/image/upload/seo/hjjyw06csfy9/Tc3GfVuPkMMVGQBpy1yHV/63038924a5e96eca6cae02269dc41b59/look-portraitListingImage-img-infusion-1619464053514/pl-zeit-fuer-entspannung.jpeg"
+                },
+                "color": "#D3CBC4",
+                "trackingName": "Zeit für Entspannung",
+                "products": [
+                    {
+                        "meta": {
+                            "name": "Baumwollsatin-Bettwäsche Flora in Altrosa",
+                            "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 135 x 200 cm + 1 Kissen 80 x 80 cm",
+                            "sku": "DEQ20WES98316",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "baumwollsatin-bettwaesche-flora-124488.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ20WES98316-156761",
+                            "best_selling_simple_sku": "DEQ20WES98316-156761",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 135 x 200 cm + 1 Kissen 80 x 80 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ20WES98316-156758": {
+                                "meta": {
+                                    "price": 119,
+                                    "original_price": 119,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/85/7651/1428353.jpg",
+                                    "image_path": "/simple/85/7651/1428353.jpg",
+                                    "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 240 x 220 cm + 2 Kissen 80 x 80 cm",
+                                    "filter_size": "240 x 220 cm + 2 Kissen 80 x 80 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 32,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/85/7651/1428353.jpg",
+                                        "tag": "dtl",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/85/7651/1428353/Baumwollsatin-Bettwasche-Flora-in-Altrosa.jpg",
+                                        "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 240 x 220 cm + 2 Kissen 80 x 80 cm"
+                                    }
+                                }
+                            },
+                            "DEQ20WES98316-156759": {
+                                "meta": {
+                                    "price": 99,
+                                    "original_price": 99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/95/7651/1428364.jpg",
+                                    "image_path": "/simple/95/7651/1428364.jpg",
+                                    "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 200 x 200 cm + 2 Kissen 80 x 80 cm",
+                                    "filter_size": "200 x 200 cm + 2 Kissen 80 x 80 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 39,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/95/7651/1428364.jpg",
+                                        "tag": "dtl",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/95/7651/1428364/Baumwollsatin-Bettwasche-Flora-in-Altrosa.jpg",
+                                        "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 200 x 200 cm + 2 Kissen 80 x 80 cm"
+                                    }
+                                }
+                            },
+                            "DEQ20WES98316-156760": {
+                                "meta": {
+                                    "price": 89,
+                                    "original_price": 89,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/06/7651/1428342.jpg",
+                                    "image_path": "/simple/06/7651/1428342.jpg",
+                                    "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 155 x 220 cm + 1 Kissen 80 x 80 cm",
+                                    "filter_size": "155 x 220 cm + 1 Kissen 80 x 80 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 69,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/06/7651/1428342.jpg",
+                                        "tag": "dtl",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/06/7651/1428342/Baumwollsatin-Bettwasche-Flora-in-Altrosa.jpg",
+                                        "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 155 x 220 cm + 1 Kissen 80 x 80 cm"
+                                    }
+                                }
+                            },
+                            "DEQ20WES98316-156761": {
+                                "meta": {
+                                    "price": 79.99,
+                                    "original_price": 79.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/16/7651/1426858.jpg",
+                                    "image_path": "/simple/16/7651/1426858.jpg",
+                                    "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 135 x 200 cm + 1 Kissen 80 x 80 cm",
+                                    "filter_size": "135 x 200 cm + 1 Kissen 80 x 80 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 197,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/16/7651/1426858.jpg",
+                                        "tag": "dtl",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/16/7651/1426858/Baumwollsatin-Bettwasche-Flora-in-Altrosa.jpg",
+                                        "alt_tag": "Baumwollsatin-Bettwäsche Flora in Altrosa, Webart: Satin Fadendichte 210 TC,, Vorderseite: MehrfarbigRückseite: Altrosa, 135 x 200 cm + 1 Kissen 80 x 80 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Rundes glänzendes Samt-Kissen Monet in Altrosa, mit Inlett",
+                            "alt_tag": "Rundes glänzendes Samt-Kissen Monet in Altrosa, mit Inlett, Bezug: 100% Polyestersamt, Altrosa, Ø 40 cm",
+                            "sku": "DEQ19WES73621",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "rundes-glaenzendes-samt-kissen-monet-mit-inlett-109347.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ19WES73621-137179",
+                            "best_selling_simple_sku": "DEQ19WES73621-137179",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Rundes glänzendes Samt-Kissen Monet in Altrosa, mit Inlett, Bezug: 100% Polyestersamt, Altrosa, Ø 40 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ19WES73621-137179": {
+                                "meta": {
+                                    "price": 34.99,
+                                    "original_price": 34.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/97/1731/1194893.jpg",
+                                    "image_path": "/simple/97/1731/1194893.jpg",
+                                    "alt_tag": "Rundes glänzendes Samt-Kissen Monet in Altrosa, mit Inlett, Bezug: 100% Polyestersamt, Altrosa, Ø 40 cm",
+                                    "filter_size": "Ø 40 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 681,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/97/1731/1194893.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/97/1731/1194893/Rundes-glanzendes-Samt-Kissen-Monet-in-Altrosa-mit-Inlett.jpg",
+                                        "alt_tag": "Rundes glänzendes Samt-Kissen Monet in Altrosa, mit Inlett, Bezug: 100% Polyestersamt, Altrosa, Ø 40 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Tablett-Beistelltisch Cupid mit Glasplatte",
+                            "alt_tag": "Tablett-Beistelltisch Cupid mit Glasplatte, Gestell: Eisen, pulverbeschichtet, Tischplatte: Schwarzglas, Schwarz, Ø 43 x H 45 cm",
+                            "sku": "DEQ14ZUI35470",
+                            "brand": "Zuiver",
+                            "pdp_url": "tablett-tisch-cupid-mit-glasplatte-14995.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": true,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ14ZUI35470-17290",
+                            "best_selling_simple_sku": "DEQ14ZUI35470-17290",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Tablett-Beistelltisch Cupid mit Glasplatte, Gestell: Eisen, pulverbeschichtet, Tischplatte: Schwarzglas, Schwarz, Ø 43 x H 45 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ14ZUI35470-17290": {
+                                "meta": {
+                                    "price": 69.99,
+                                    "original_price": 69.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/09/271/1165027.jpg",
+                                    "image_path": "/simple/09/271/1165027.jpg",
+                                    "alt_tag": "Tablett-Beistelltisch Cupid mit Glasplatte, Gestell: Eisen, pulverbeschichtet, Tischplatte: Schwarzglas, Schwarz, Ø 43 x H 45 cm",
+                                    "filter_size": "Ø 43 x H 45 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 462,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/09/271/1165027.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/09/271/1165027/Tablett-Beistelltisch-Cupid-mit-Glasplatte.jpg",
+                                        "alt_tag": "Tablett-Beistelltisch Cupid mit Glasplatte, Gestell: Eisen, pulverbeschichtet, Tischplatte: Schwarzglas, Schwarz, Ø 43 x H 45 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Kleine Dimmbare Tischlampe Timon mit Touch-Funktion",
+                            "alt_tag": "Kleine Dimmbare Tischlampe Timon mit Touch-Funktion, Lampenschirm: Opalglas, Lampenfuß: Metall, Schalter: Kunststoff, Opalweiß, Messingfarben, matt, Ø 18 x H 21 cm",
+                            "sku": "DEQ21LUC13146",
+                            "brand": "Lucide",
+                            "pdp_url": "nachttischlampe-timon-130978.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ21LUC13146-164953",
+                            "best_selling_simple_sku": "DEQ21LUC13146-164953",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Kleine Dimmbare Tischlampe Timon mit Touch-Funktion, Lampenschirm: Opalglas, Lampenfuß: Metall, Schalter: Kunststoff, Opalweiß, Messingfarben, matt, Ø 18 x H 21 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ21LUC13146-164953": {
+                                "meta": {
+                                    "price": 54.99,
+                                    "original_price": 54.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/35/9461/1396009.jpg",
+                                    "image_path": "/simple/35/9461/1396009.jpg",
+                                    "alt_tag": "Kleine Dimmbare Tischlampe Timon mit Touch-Funktion, Lampenschirm: Opalglas, Lampenfuß: Metall, Schalter: Kunststoff, Opalweiß, Messingfarben, matt, Ø 18 x H 21 cm",
+                                    "filter_size": "Ø 18 x H 21 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 44,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/35/9461/1396009.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/35/9461/1396009/Kleine-Dimmbare-Tischlampe-Timon-mit-Touch-Funktion.jpg",
+                                        "alt_tag": "Kleine Dimmbare Tischlampe Timon mit Touch-Funktion, Lampenschirm: Opalglas, Lampenfuß: Metall, Schalter: Kunststoff, Opalweiß, Messingfarben, matt, Ø 18 x H 21 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Wattierte Samt-Kissenhülle Cosima in Salbeigrün",
+                            "alt_tag": "Wattierte Samt-Kissenhülle Cosima in Salbeigrün, Salbeigrün, 50 x 50 cm",
+                            "sku": "DEQ19WES32994",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "wattierte-samt-kissenhuelle-cosima-108238.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ19WES32994-135696",
+                            "best_selling_simple_sku": "DEQ19WES32994-135696",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Wattierte Samt-Kissenhülle Cosima in Salbeigrün, Salbeigrün, 50 x 50 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ19WES32994-135696": {
+                                "meta": {
+                                    "price": 29.99,
+                                    "original_price": 29.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/69/6531/1215572.jpg",
+                                    "image_path": "/simple/69/6531/1215572.jpg",
+                                    "alt_tag": "Wattierte Samt-Kissenhülle Cosima in Salbeigrün, Salbeigrün, 50 x 50 cm",
+                                    "filter_size": "50 x 50 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 1,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/69/6531/1215572.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/69/6531/1215572/Wattierte-Samt-Kissenhulle-Cosima-in-Salbeigrun.jpg",
+                                        "alt_tag": "Wattierte Samt-Kissenhülle Cosima in Salbeigrün, Salbeigrün, 50 x 50 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Kleine Pendelleuchte Berceste in Schwarz-Gold",
+                            "alt_tag": "Kleine Pendelleuchte Berceste in Schwarz-Gold, Lampenschirm: Metall, beschichtet, Baldachin: Metall, beschichtet, Messingfarben, Schwarz, Ø 20 cm",
+                            "sku": "DEQ20ASI85048",
+                            "brand": "",
+                            "pdp_url": "pendelleuchte-berceste-128411.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ20ASI85048-161855",
+                            "best_selling_simple_sku": "DEQ20ASI85048-161855",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Kleine Pendelleuchte Berceste in Schwarz-Gold, Lampenschirm: Metall, beschichtet, Baldachin: Metall, beschichtet, Messingfarben, Schwarz, Ø 20 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ20ASI85048-161855": {
+                                "meta": {
+                                    "price": 25.99,
+                                    "original_price": 25.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/55/8161/1355221.jpg",
+                                    "image_path": "/simple/55/8161/1355221.jpg",
+                                    "alt_tag": "Kleine Pendelleuchte Berceste in Schwarz-Gold, Lampenschirm: Metall, beschichtet, Baldachin: Metall, beschichtet, Messingfarben, Schwarz, Ø 20 cm",
+                                    "filter_size": "Ø 20 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 51,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/55/8161/1355221.jpg",
+                                        "tag": "dtl",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/55/8161/1355221/Kleine-Pendelleuchte-Berceste-in-Schwarz-Gold.jpg",
+                                        "alt_tag": "Kleine Pendelleuchte Berceste in Schwarz-Gold, Lampenschirm: Metall, beschichtet, Baldachin: Metall, beschichtet, Messingfarben, Schwarz, Ø 20 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Keramik-Vasen-Set Mico in Weiß, 3-tlg.",
+                            "alt_tag": "Keramik-Vasen-Set Mico in Weiß, 3-tlg., Keramik, Weiß, 10 x 12 cm",
+                            "sku": "DEQ21BLO68795",
+                            "brand": "Bloomingville",
+                            "pdp_url": "vasen-set-mico-3-tlg-131837.html",
+                            "quantity_badge_number": 3,
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ21BLO68795-166160",
+                            "best_selling_simple_sku": "DEQ21BLO68795-166160",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Keramik-Vasen-Set Mico in Weiß, 3-tlg., Keramik, Weiß, 10 x 12 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ21BLO68795-166160": {
+                                "meta": {
+                                    "price": 19.99,
+                                    "original_price": 29.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/06/1661/1404857.jpg",
+                                    "image_path": "/simple/06/1661/1404857.jpg",
+                                    "alt_tag": "Keramik-Vasen-Set Mico in Weiß, 3-tlg., Keramik, Weiß, 10 x 12 cm",
+                                    "filter_size": "10 x 12 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 40,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/06/1661/1404857.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/06/1661/1404857/Keramik-Vasen-Set-Mico-in-Weiss-3-tlg.jpg",
+                                        "alt_tag": "Keramik-Vasen-Set Mico in Weiß, 3-tlg., Keramik, Weiß, 10 x 12 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster",
+                            "alt_tag": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster, 100% Polyestersamt, Terrakottarot, 40 x 40 cm",
+                            "sku": "DEQ19MAG80691",
+                            "brand": "Magma",
+                            "pdp_url": "samt-kissenhuelle-nobless-mit-erhabenem-rautenmuster-113024.html",
+                            "black_friday_top_deal": true,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ19MAG80691-141687",
+                            "best_selling_simple_sku": "DEQ19MAG80691-141687",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster, 100% Polyestersamt, Terrakottarot, 40 x 40 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ19MAG80691-141687": {
+                                "meta": {
+                                    "price": 17.99,
+                                    "original_price": 17.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/78/6141/1374598.jpg",
+                                    "image_path": "/simple/78/6141/1374598.jpg",
+                                    "alt_tag": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster, 100% Polyestersamt, Terrakottarot, 40 x 40 cm",
+                                    "filter_size": "40 x 40 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 482,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/78/6141/1374598.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/78/6141/1374598/Samt-Kissenhulle-Nobless-in-Terrakotta-mit-erhabenem-Rautenmuster.jpg",
+                                        "alt_tag": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster, 100% Polyestersamt, Terrakottarot, 40 x 40 cm"
+                                    }
+                                }
+                            },
+                            "DEQ19MAG80691-141688": {
+                                "meta": {
+                                    "price": 19.99,
+                                    "original_price": 19.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/88/6141/1374606.jpg",
+                                    "image_path": "/simple/88/6141/1374606.jpg",
+                                    "alt_tag": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster, 100% Polyestersamt, Terrakottarot, 50 x 50 cm",
+                                    "filter_size": "50 x 50 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 191,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/88/6141/1374606.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/88/6141/1374606/Samt-Kissenhulle-Nobless-in-Terrakotta-mit-erhabenem-Rautenmuster.jpg",
+                                        "alt_tag": "Samt-Kissenhülle Nobless in Terrakotta mit erhabenem Rautenmuster, 100% Polyestersamt, Terrakottarot, 50 x 50 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Gerahmter Digitaldruck Marilyn Pop Art",
+                            "alt_tag": "Gerahmter Digitaldruck Marilyn Pop Art, Bild: Digitaldruck auf Papier, , Rahmen: Holz, lackiert, Front: Plexiglas, Mehrfarbig, 53 x 43 cm",
+                            "sku": "DEQ20JAC53085",
+                            "brand": "Liv Corday",
+                            "pdp_url": "gerahmter-digitaldruck-marilyn-pop-art-128165.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ20JAC53085-161482",
+                            "best_selling_simple_sku": "DEQ20JAC53085-161482",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Gerahmter Digitaldruck Marilyn Pop Art, Bild: Digitaldruck auf Papier, , Rahmen: Holz, lackiert, Front: Plexiglas, Mehrfarbig, 53 x 43 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ20JAC53085-161482": {
+                                "meta": {
+                                    "price": 89,
+                                    "original_price": 89,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/28/4161/1329425.jpg",
+                                    "image_path": "/simple/28/4161/1329425.jpg",
+                                    "alt_tag": "Gerahmter Digitaldruck Marilyn Pop Art, Bild: Digitaldruck auf Papier, , Rahmen: Holz, lackiert, Front: Plexiglas, Mehrfarbig, 53 x 43 cm",
+                                    "filter_size": "53 x 43 cm",
+                                    "delivery_time": 10,
+                                    "quantity": 994,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/28/4161/1329425.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/28/4161/1329425/Gerahmter-Digitaldruck-Marilyn-Pop-Art.jpg",
+                                        "alt_tag": "Gerahmter Digitaldruck Marilyn Pop Art, Bild: Digitaldruck auf Papier, , Rahmen: Holz, lackiert, Front: Plexiglas, Mehrfarbig, 53 x 43 cm"
+                                    }
+                                }
+                            },
+                            "DEQ20JAC53085-161483": {
+                                "meta": {
+                                    "price": 119,
+                                    "original_price": 119,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/38/4161/1329428.jpg",
+                                    "image_path": "/simple/38/4161/1329428.jpg",
+                                    "alt_tag": "Gerahmter Digitaldruck Marilyn Pop Art, Bild: Digitaldruck auf Papier, , Rahmen: Holz, lackiert, Front: Plexiglas, Mehrfarbig, 63 x 53 cm",
+                                    "filter_size": "63 x 53 cm",
+                                    "delivery_time": 10,
+                                    "quantity": 999,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/38/4161/1329428.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/38/4161/1329428/Gerahmter-Digitaldruck-Marilyn-Pop-Art.jpg",
+                                        "alt_tag": "Gerahmter Digitaldruck Marilyn Pop Art, Bild: Digitaldruck auf Papier, , Rahmen: Holz, lackiert, Front: Plexiglas, Mehrfarbig, 63 x 53 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Einfarbige Samt-Kissenhülle Dana in Salbeigrün",
+                            "alt_tag": "Einfarbige Samt-Kissenhülle Dana in Salbeigrün, 100% Baumwollsamt, Salbeigrün, 30 x 50 cm",
+                            "sku": "DEQ17BY407005",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "einfarbige-samt-kissenhuelle-dana-in-salbeigruen-68692.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ17BY407005-85722",
+                            "best_selling_simple_sku": "DEQ17BY407005-85722",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Einfarbige Samt-Kissenhülle Dana in Salbeigrün, 100% Baumwollsamt, Salbeigrün, 30 x 50 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ17BY407005-85722": {
+                                "meta": {
+                                    "price": 19.99,
+                                    "original_price": 19.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/22/758/1188456.jpg",
+                                    "image_path": "/simple/22/758/1188456.jpg",
+                                    "alt_tag": "Einfarbige Samt-Kissenhülle Dana in Salbeigrün, 100% Baumwollsamt, Salbeigrün, 30 x 50 cm",
+                                    "filter_size": "30 x 50 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 184,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/22/758/1188456.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/22/758/1188456/Einfarbige-Samt-Kissenhulle-Dana-in-Salbeigrun.jpg",
+                                        "alt_tag": "Einfarbige Samt-Kissenhülle Dana in Salbeigrün, 100% Baumwollsamt, Salbeigrün, 30 x 50 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Glänzende Samt-Nackenrolle Monet in Dunkelgrau, mit Inlett",
+                            "alt_tag": "Glänzende Samt-Nackenrolle Monet in Dunkelgrau, mit Inlett, Bezug: 100% Polyestersamt, Dunkelgrau, Ø 18 x L 50 cm",
+                            "sku": "DEQ19WES44716",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "glaenzende-samt-nackenrolle-monet-mit-inlett-109348.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ19WES44716-137180",
+                            "best_selling_simple_sku": "DEQ19WES44716-137180",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Glänzende Samt-Nackenrolle Monet in Dunkelgrau, mit Inlett, Bezug: 100% Polyestersamt, Dunkelgrau, Ø 18 x L 50 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ19WES44716-137180": {
+                                "meta": {
+                                    "price": 44.99,
+                                    "original_price": 44.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/08/1731/1187780.jpg",
+                                    "image_path": "/simple/08/1731/1187780.jpg",
+                                    "alt_tag": "Glänzende Samt-Nackenrolle Monet in Dunkelgrau, mit Inlett, Bezug: 100% Polyestersamt, Dunkelgrau, Ø 18 x L 50 cm",
+                                    "filter_size": "Ø 18 x L 50 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 600,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/08/1731/1187780.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/08/1731/1187780/Glanzende-Samt-Nackenrolle-Monet-in-Dunkelgrau-mit-Inlett.jpg",
+                                        "alt_tag": "Glänzende Samt-Nackenrolle Monet in Dunkelgrau, mit Inlett, Bezug: 100% Polyestersamt, Dunkelgrau, Ø 18 x L 50 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Zeitschriftenhalter Hoop",
+                            "alt_tag": "Zeitschriftenhalter Hoop, Metall, lackiert, Schwarz, Ø 35 x H 21 cm",
+                            "sku": "DEQ17UMB52488",
+                            "brand": "Umbra",
+                            "pdp_url": "zeitschriftenhalter-hoop-80034.html",
+                            "black_friday_top_deal": true,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ17UMB52488-100002",
+                            "best_selling_simple_sku": "DEQ17UMB52488-100002",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Zeitschriftenhalter Hoop, Metall, lackiert, Schwarz, Ø 35 x H 21 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ17UMB52488-100002": {
+                                "meta": {
+                                    "price": 54.99,
+                                    "original_price": 54.99,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/20/0001/1202681.jpg",
+                                    "image_path": "/simple/20/0001/1202681.jpg",
+                                    "alt_tag": "Zeitschriftenhalter Hoop, Metall, lackiert, Schwarz, Ø 35 x H 21 cm",
+                                    "filter_size": "Ø 35 x H 21 cm",
+                                    "delivery_time": 4,
+                                    "quantity": 81,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/20/0001/1202681.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/20/0001/1202681/Zeitschriftenhalter-Hoop.jpg",
+                                        "alt_tag": "Zeitschriftenhalter Hoop, Metall, lackiert, Schwarz, Ø 35 x H 21 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Handgewebter Viskoseteppich Jane in Dunkelblau",
+                            "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 160 x L 230 cm (Größe M)",
+                            "sku": "DEQ17POR33653",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "handgewebter-viskoseteppich-jane-80048.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": true,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ17POR33653-132276",
+                            "best_selling_simple_sku": "DEQ17POR33653-100019",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 160 x L 230 cm (Größe M)"
+                            },
+                            "show_bestseller_image": true,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ17POR33653-100018": {
+                                "meta": {
+                                    "price": 199,
+                                    "original_price": 199,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/81/0001/1184647.jpg",
+                                    "image_path": "/simple/81/0001/1184647.jpg",
+                                    "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 120 x L 180 cm (Größe S)",
+                                    "filter_size": "B 120 x L 180 cm (Größe S)",
+                                    "delivery_time": 4,
+                                    "quantity": 35,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/81/0001/1184647.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/81/0001/1184647/Handgewebter-Viskoseteppich-Jane-in-Dunkelblau.jpg",
+                                        "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 120 x L 180 cm (Größe S)"
+                                    }
+                                }
+                            },
+                            "DEQ17POR33653-100019": {
+                                "meta": {
+                                    "price": 379,
+                                    "original_price": 379,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/91/0001/1382090.jpg",
+                                    "image_path": "/simple/91/0001/1382090.jpg",
+                                    "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 160 x L 230 cm (Größe M)",
+                                    "filter_size": "B 160 x L 230 cm (Größe M)",
+                                    "delivery_time": 6,
+                                    "quantity": 120,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/91/0001/1382090.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/91/0001/1382090/Handgewebter-Viskoseteppich-Jane-in-Dunkelblau.jpg",
+                                        "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 160 x L 230 cm (Größe M)"
+                                    }
+                                }
+                            },
+                            "DEQ17POR33653-100020": {
+                                "meta": {
+                                    "price": 549,
+                                    "original_price": 549,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/02/0001/1184671.jpg",
+                                    "image_path": "/simple/02/0001/1184671.jpg",
+                                    "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 200 x L 300 cm (Größe L)",
+                                    "filter_size": "B 200 x L 300 cm (Größe L)",
+                                    "delivery_time": 24,
+                                    "quantity": 53,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/02/0001/1184671.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/02/0001/1184671/Handgewebter-Viskoseteppich-Jane-in-Dunkelblau.jpg",
+                                        "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 200 x L 300 cm (Größe L)"
+                                    }
+                                }
+                            },
+                            "DEQ17POR33653-132276": {
+                                "meta": {
+                                    "price": 119,
+                                    "original_price": 119,
+                                    "available": false,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/67/2231/1184683.jpg",
+                                    "image_path": "/simple/67/2231/1184683.jpg",
+                                    "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 90 x L 150 cm (Größe XS)",
+                                    "filter_size": "B 90 x L 150 cm (Größe XS)",
+                                    "quantity": 0,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/67/2231/1184683.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/67/2231/1184683/Handgewebter-Viskoseteppich-Jane-in-Dunkelblau.jpg",
+                                        "alt_tag": "Handgewebter Viskoseteppich Jane in Dunkelblau, Flor: 100% Viskose, Dunkelblau, B 90 x L 150 cm (Größe XS)"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Polsterbett Cloud mit Stauraum in Dunkelgrün",
+                            "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 180 x 200 cm",
+                            "sku": "DEQ21WES04361",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "gruenes-polsterbett-cloud-mit-stauraum-132555.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ21WES04361-167027",
+                            "best_selling_simple_sku": "DEQ21WES04361-167027",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 180 x 200 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ21WES04361-167025": {
+                                "meta": {
+                                    "price": 999,
+                                    "original_price": 999,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/52/0761/1414670.jpg",
+                                    "image_path": "/simple/52/0761/1414670.jpg",
+                                    "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 180 x 200 cm",
+                                    "filter_size": "180 x 200 cm",
+                                    "delivery_time": 46,
+                                    "quantity": 27,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/52/0761/1414670.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/52/0761/1414670/Polsterbett-Cloud-mit-Stauraum-in-Dunkelgrun.jpg",
+                                        "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 180 x 200 cm"
+                                    }
+                                }
+                            },
+                            "DEQ21WES04361-167026": {
+                                "meta": {
+                                    "price": 899,
+                                    "original_price": 899,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/62/0761/1414680.jpg",
+                                    "image_path": "/simple/62/0761/1414680.jpg",
+                                    "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 160 x 200 cm",
+                                    "filter_size": "160 x 200 cm",
+                                    "delivery_time": 46,
+                                    "quantity": 27,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/62/0761/1414680.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/62/0761/1414680/Polsterbett-Cloud-mit-Stauraum-in-Dunkelgrun.jpg",
+                                        "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 160 x 200 cm"
+                                    }
+                                }
+                            },
+                            "DEQ21WES04361-167027": {
+                                "meta": {
+                                    "price": 799,
+                                    "original_price": 799,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/72/0761/1414690.jpg",
+                                    "image_path": "/simple/72/0761/1414690.jpg",
+                                    "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 140 x 200 cm",
+                                    "filter_size": "140 x 200 cm",
+                                    "delivery_time": 46,
+                                    "quantity": 27,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/72/0761/1414690.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/72/0761/1414690/Polsterbett-Cloud-mit-Stauraum-in-Dunkelgrun.jpg",
+                                        "alt_tag": "Polsterbett Cloud mit Stauraum in Dunkelgrün, Korpus: Massives Kiefernholz und , Bezug: Fein strukturierter Webst, Webstoff Dunkelgrün, 140 x 200 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Samt-Daybed Aurora in Grau mit Metall-Füßen",
+                            "alt_tag": "Samt-Daybed Aurora in Grau mit Metall-Füßen, Bezug: Samt (Hochwertiger Polyes, Beine: Metall, beschichtet, Samt Grau, 180 x 42 cm",
+                            "sku": "DEQ18BY461944",
+                            "brand": "Westwing Collection",
+                            "pdp_url": "samt-daybed-aurora-85122.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ18BY461944-106224",
+                            "best_selling_simple_sku": "DEQ18BY461944-106224",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Samt-Daybed Aurora in Grau mit Metall-Füßen, Bezug: Samt (Hochwertiger Polyes, Beine: Metall, beschichtet, Samt Grau, 180 x 42 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": false
+                        },
+                        "simples": {
+                            "DEQ18BY461944-106224": {
+                                "meta": {
+                                    "price": 559,
+                                    "original_price": 559,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/42/2601/1192461.jpg",
+                                    "image_path": "/simple/42/2601/1192461.jpg",
+                                    "alt_tag": "Samt-Daybed Aurora in Grau mit Metall-Füßen, Bezug: Samt (Hochwertiger Polyes, Beine: Metall, beschichtet, Samt Grau, 180 x 42 cm",
+                                    "filter_size": "180 x 42 cm",
+                                    "delivery_time": 11,
+                                    "quantity": 36,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/42/2601/1192461.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/42/2601/1192461/Samt-Daybed-Aurora-in-Grau-mit-Metall-Fussen.jpg",
+                                        "alt_tag": "Samt-Daybed Aurora in Grau mit Metall-Füßen, Bezug: Samt (Hochwertiger Polyes, Beine: Metall, beschichtet, Samt Grau, 180 x 42 cm"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "meta": {
+                            "name": "Sideboard Travis mit Nussbaumfurnier im Retro Design",
+                            "alt_tag": "Sideboard Travis mit Nussbaumfurnier im Retro Design, Korpus: Mitteldichte Holzfaserpla, Korpus: Walnussbraun Griffe, Rahmen und Füße: Schwarz, 180 x 71 cm",
+                            "sku": "DEQ18ZUI58065",
+                            "brand": "Zuiver",
+                            "pdp_url": "sideboard-travis-mit-nussbaumfurnier-im-retro-design-91330.html",
+                            "black_friday_top_deal": false,
+                            "cyber_monday_top_deal": false,
+                            "soldout": false,
+                            "is_sustainable": false,
+                            "cheapest_simple_sku": "DEQ18ZUI58065-113556",
+                            "best_selling_simple_sku": "DEQ18ZUI58065-113556",
+                            "image": {
+                                "tag": "reg",
+                                "seo_url": "",
+                                "alt_tag": "Sideboard Travis mit Nussbaumfurnier im Retro Design, Korpus: Mitteldichte Holzfaserpla, Korpus: Walnussbraun Griffe, Rahmen und Füße: Schwarz, 180 x 71 cm"
+                            },
+                            "show_bestseller_image": false,
+                            "show_mood_image_first": true
+                        },
+                        "simples": {
+                            "DEQ18ZUI58065-113556": {
+                                "meta": {
+                                    "price": 1169,
+                                    "original_price": 1169,
+                                    "available": true,
+                                    "is_visible": true,
+                                    "image_url": "https://static-stage-release-shop1.westwing.eu/image/upload/e_trim/c_pad,w_636,h_526/simple/65/5311/1151490.jpg",
+                                    "image_path": "/simple/65/5311/1151490.jpg",
+                                    "alt_tag": "Sideboard Travis mit Nussbaumfurnier im Retro Design, Korpus: Mitteldichte Holzfaserpla, Korpus: Walnussbraun Griffe, Rahmen und Füße: Schwarz, 180 x 71 cm",
+                                    "filter_size": "180 x 71 cm",
+                                    "delivery_time": 11,
+                                    "quantity": 15,
+                                    "is_special_sale_sold_out": false,
+                                    "image": {
+                                        "path": "/simple/65/5311/1151490.jpg",
+                                        "tag": "reg",
+                                        "seo_url": "https://static-stage-release-shop1.westwing.eu/image/upload/seo/t_default.plp_seo/simple/65/5311/1151490/Sideboard-Travis-mit-Nussbaumfurnier-im-Retro-Design.jpg",
+                                        "alt_tag": "Sideboard Travis mit Nussbaumfurnier im Retro Design, Korpus: Mitteldichte Holzfaserpla, Korpus: Walnussbraun Griffe, Rahmen und Füße: Schwarz, 180 x 71 cm"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "isLandscape": true
+            }
+        ]
+    }
 }
